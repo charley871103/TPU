@@ -1,0 +1,11 @@
+INCA_libs/
+irun*
+ncverilog*
+*.swp
+*.bin
+build/
+novas*
+*.vcd
+*.fsdb
+nWave*
+vfastLog*
